@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-1s7izo.suportechat.com/sitemap.xml
